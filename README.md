@@ -40,3 +40,6 @@
 - **DECOMPILING OR REVERSE ENGINEERING/SELLING FAKE COPIES CAN RESULT IN A TERMINATION OR FURTHER PUNISHMENT!**
 
 **-----------------------------------------------------------------------------------------------------------------------------**
+
+# DirectMessage+
+We do respect your privacy, but with the plus version, you're actually texting in super-private conversations.
