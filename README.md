@@ -29,6 +29,14 @@
 6: Goto your home page.
 7: Open DirectMessage and start messagin'.
 
-# WARNING!
-- **IF YOUR PHONE BILL IS HIGHER THEN USUAL, REDUCE YOUR PHONE CALLING, MESSAGING OR ANY COMMUNICATION TYPES!**
+# Read Me (Notes)
+- This app *does not* have an open source file.
+- You're not allowed to decompile or make copies.
+- If you attempt to, you will be blacklisted.
+- Do not modify the application with any tools.
+
+# Warning
+- **IF YOUR PHONE BILL IS HIGHER THAN USUAL, REDUCE YOUR PHONE CALLING, MESSAGING OR ANY COMMUNICATION TYPES!**
 - **DECOMPILING OR REVERSE ENGINEERING/SELLING FAKE COPIES CAN RESULT IN A TERMINATION OR FURTHER PUNISHMENT!**
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------***
