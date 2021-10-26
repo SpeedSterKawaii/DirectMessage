@@ -43,3 +43,20 @@
 
 # DirectMessage+
 We do respect your privacy, but with the plus version, you're actually texting in super-private conversations.
+
+# Plus Features
+- Send 1080P Videos in Chat.
+- Send 44MegaPixels(MP) Photos.
+- Quick calling/chatting notifications.
+- No delay or lag in opening plus edition.
+- HD Voice Calling with your friends.
+- Built in stickers and gifs in tenor.com.
+- Works on your phone and Computer as well.
+- PC doesn't need phone number, just WiFi and your number.
+
+# How to Purchase?
+1: Mail to me at speedsterscripts@gmail saying you want to purchase plus edition.
+(accepting paypal, gift cards, digital codes, or rewards such as xbox-ps gift cards)
+2: You can find the DirectMessage(Plus)[Limited] Edition which has lots of features out.
+3: Tell me (mail) what your offer is and we'll respond in a couple of hours (M-F mainly).
+4: If I get award, you will get the DMPlus.apk and do the same process for normal ver.
