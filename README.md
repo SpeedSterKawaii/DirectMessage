@@ -1,2 +1,5 @@
 # DirectMessage
-Oh, yowu wanted privacy? You want end-to-end encrypted chat? You don't want anyone looking at your messages? Think no further! Download DirectMessage(DM) Today!
+**The kings of privacy and safety, working since 2019, Developed By Speed Softwares.**
+
+# Privacy
+*We respect your privacy, other apps may not be as safe as you think, we don't leak or sell your database as it is encrypted fully with SHA-512 Military Encryption.
