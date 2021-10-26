@@ -39,4 +39,4 @@
 - **IF YOUR PHONE BILL IS HIGHER THAN USUAL, REDUCE YOUR PHONE CALLING, MESSAGING OR ANY COMMUNICATION TYPES!**
 - **DECOMPILING OR REVERSE ENGINEERING/SELLING FAKE COPIES CAN RESULT IN A TERMINATION OR FURTHER PUNISHMENT!**
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**---------------------------------------------------------------------------------------------------------------------------------------------**
